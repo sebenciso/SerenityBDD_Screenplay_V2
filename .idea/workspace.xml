@@ -30,12 +30,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1wyCMgrhKPsFnrJ99on4fLKqz7c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,8 +45,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/academy" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Git-2.33.0.2-64-bit.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -54,10 +56,11 @@
       <recent name="co.com.choucair.certification.academy.userinterface" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="co.com.choucair.certification.academy.userinterface" />
-      <recent name="tasks" />
       <recent name="co.com.chourcair.certificacion.proyectobase.stepdefinitions" />
-      <recent name="userinterface" />
+      <recent name="co.com.choucair.certification.academy.model" />
+      <recent name="co.com.chourcair.certificacion.proyectobase.runners" />
+      <recent name="co.com.choucair.certification.academy.questions" />
+      <recent name="co.com.choucair.certification.academy.userinterface" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
@@ -84,7 +87,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;co.com.chourcair.certificacion.proyectobase.runners.RunnerTags&quot; --scan --scan --scan" />
+        <option name="scriptParameters" value="--tests &quot;co.com.chourcair.certificacion.proyectobase.runners.RunnerTags&quot; --scan --scan --scan --stacktrace" />
         <option name="taskDescriptions">
           <list />
         </option>
